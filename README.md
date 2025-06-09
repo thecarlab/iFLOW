@@ -1,4 +1,4 @@
-# [iFLOW] Intelligent Multi-Model Federated Learning Framework
+# iFLOW: Intelligent Multi-Model Federated Learning Framework
 ## 1. Setup Torch and TorchVision
 ```bash
     pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
