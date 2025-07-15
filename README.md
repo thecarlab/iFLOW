@@ -11,7 +11,7 @@
 <div align="center">    
   <p style="font-size: 20px;">by 
     <a href="mailto:qirenw@udel.edu">Qiren Wang</a><sup>1</sup>,
-    Yongtao Yao<sup>1</sup>, 
+    <a href="mailto:yongtao@udel.edu">Yongtao Yao<sup>1</sup>, 
     Nejib Ammar<sup>2</sup>, 
     <a href="mailto:weisong@udel.edu">Weisong Shi</a><sup>1</sup>
   </p>
